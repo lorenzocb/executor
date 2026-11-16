@@ -1,0 +1,21 @@
+packages/plugins/openapi/src/providers/microsoft/onenote.test.ts
+  s_4bb3f5791e7664::t_24bca7e6418f80 438,441-451,454,456-458
+packages/plugins/openapi/src/providers/microsoft/graph.ts
+  s_4bb3f5791e7664::t_d046d797f430af 781-790,792-795
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7625f6e533151d60e4097c1a3a5c4d57ac69b006",
+  "prompts": {},
+  "sessions": {
+    "s_4bb3f5791e7664": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eee001da-2301-4fb9-bebe-82590a8a4ca3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Lorenzo <49939356+lorenzocb@users.noreply.github.com>"
+    }
+  }
+}
