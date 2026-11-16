@@ -1,0 +1,37 @@
+packages/plugins/openapi/src/providers/microsoft/graph.ts
+  s_4bb3f5791e7664::t_085088305039a6 782-785
+  s_4bb3f5791e7664::t_7e300f239fae48 903-905
+  s_4bb3f5791e7664::t_037d6506d729cc 715
+  s_4bb3f5791e7664::t_12bba45181a387 743
+  s_4bb3f5791e7664::t_38ef9e822a8e4d 732-738,740-742
+  s_4bb3f5791e7664::t_2a7fd0b89f5492 696,700-701
+  s_4bb3f5791e7664::t_0df445917aae54 702
+  s_4bb3f5791e7664::t_b7beb10a29b126 692-693,697-699
+  s_4bb3f5791e7664::t_be858429f217de 632-680,682,694-695,703-714,716-731,739,744-781,786-805
+  s_4bb3f5791e7664::t_a11fd5c36f003c 681,683-691
+.changeset/onenote-page-write-contracts.md
+  s_4bb3f5791e7664::t_78fcf57bff8328 1-5
+packages/plugins/openapi/src/providers/microsoft/onenote.test.ts
+  s_4bb3f5791e7664::t_10b63ba046a22a 13,523-525,660
+  s_4bb3f5791e7664::t_7dbfffae57bb37 500-501,503-513,515-517,521-522
+  s_4bb3f5791e7664::t_75c26241fcdf48 518-520
+  s_4bb3f5791e7664::t_5f07641e71b865 1-12,14-353,356-499,502,514,526-613,616-659,661-663
+  s_4bb3f5791e7664::t_e6ffca76e7da4d 354-355
+  s_4bb3f5791e7664::t_588076557645be 614-615
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a29e5d9f7ae254ccd66fb96908423049d81160d1",
+  "prompts": {},
+  "sessions": {
+    "s_4bb3f5791e7664": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eee001da-2301-4fb9-bebe-82590a8a4ca3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Lorenzo <49939356+lorenzocb@users.noreply.github.com>"
+    }
+  }
+}
